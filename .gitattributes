@@ -1,0 +1,3 @@
+# Third-party front-end assets bundled with the Material Dashboard template.
+apps/static/assets/** linguist-vendored
+staticfiles/** linguist-vendored
